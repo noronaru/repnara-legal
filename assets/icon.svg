@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="18 18 72 72">
+  <defs><clipPath id="rg"><rect x="18" y="18" width="72" height="72" rx="14.4"/></clipPath></defs>
+  <g clip-path="url(#rg)">
+    <rect width="108" height="108" fill="#08151D"/>
+    <g id="mark" transform="translate(18 18) scale(0.0703125)"><g fill="#4FD1E4"><rect x="192.4" y="495" width="639.2" height="34" rx="17"/><rect x="376" y="464.4" width="27.3" height="95.2" rx="10"/><rect x="620.7" y="464.4" width="27.3" height="95.2" rx="10"/></g><g fill="#F2B35B"><rect x="301.2" y="369.2" width="61.1" height="285.6" rx="20"/><rect x="661.7" y="369.2" width="61.1" height="285.6" rx="20"/><rect x="240" y="430.5" width="47.7" height="163" rx="17"/><rect x="736.3" y="430.5" width="47.7" height="163" rx="17"/></g></g>
+  </g>
+</svg>
